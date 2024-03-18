@@ -1,2 +1,2 @@
-# Assignments
+# Assignment
 for submitting ducat assignments
